@@ -30,7 +30,7 @@ It is available in Windows and Linux.
 
 ## Modify
 
-All source code and assets are in the [src](src) folder. The game is made with Unity 2020.3.3f1 [Unity](https://unity.com/). To modify it open src folder as project in the framework.
+All source code and assets are in the [src](src) folder. The game is made with [Unity](https://unity.com/) 2020.3.3f1. To modify it open src folder as project in the framework.
 
 ## Documentation
 
