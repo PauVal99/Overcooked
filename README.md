@@ -6,7 +6,7 @@ There is a [video demo](demo.mp4).
 
 ## Play
 
-In order to play just run [bin/linux/Overcooked!.x86_64](bin/linux/Overcooked!.x86_64) for Linux or [bin/windows/Overcooked!.exe](bin/windows/Overcooked!.exe) for Windows.
+In order just to play download [bin/linux](bin/linux) folder or [bin/windows](bin/windows) folder and run the executable.
 
 ## Instructions
 Keys:
