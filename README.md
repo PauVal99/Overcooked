@@ -1,19 +1,15 @@
 # Overcooked
 
-Overcooked is a recreation of [Overcooked](https://www.youtube.com/watch?v=HxNxYDhBRrw) video game made in VJ at FIB for educational purposes. It is made with Unity.
+Overcooked is a recreation of [Overcooked!](https://www.youtube.com/watch?v=HxNxYDhBRrw) video game made in Videogames subject at FIB for educational purposes. It is made with Unity.
 
-Made by:
- + Sergi Doce
- + Pau Val
+Made by Sergi Doce and Pau Val Tubau.
 
 ## Play
 
-In order to play just run [bin/linux/Overcooked!.x86_64](bin/linux/Overcooked!.x86_64) for Linux and [bin/windows/Overcooked!.exe](bin/windows/Overcooked!.exe) for Windows.
-
-It is available in Windows and Linux.
+In order to play just run [bin/linux/Overcooked!.x86_64](bin/linux/Overcooked!.x86_64) for Linux or [bin/windows/Overcooked!.exe](bin/windows/Overcooked!.exe) for Windows.
 
 ## Instructions
-
+Keys:
  + **W** Move Bottom
  + **A** Move Left
  + **S** Move Rigt
@@ -23,10 +19,10 @@ It is available in Windows and Linux.
  + **F** Use Extinguisher
  + **ESC** Pause Menu
 
- God Mode
- + **1** Get oldest order
- + **2** Cook all ingredients
- + **3** Activate/deactivate no burned ingredients
+God Mode:
+ + **1** Get the oldest order ready in the hands
+ + **2** Cook instantly all ingredients
+ + **3** Activate/deactivate that ingredients can burn
 
 ## Modify
 
