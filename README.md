@@ -1,6 +1,6 @@
 # Overcooked
 
-Overcooked is a recreation of [Overcooked!](https://www.youtube.com/watch?v=HxNxYDhBRrw) video game made in Videogames subject at FIB for educational purposes. It is made with Unity.
+Overcooked is a recreation of [Overcooked!](https://www.youtube.com/watch?v=HxNxYDhBRrw) made in Videogames subject at FIB for educational purposes. It is made with Unity.
 
 Made by Sergi Doce and Pau Val Tubau.
 
